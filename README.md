@@ -1,2 +1,2 @@
-# Python_Revision
+# Python_Practice
 I wanted to make a repository where I could assemble my programming attempts.
